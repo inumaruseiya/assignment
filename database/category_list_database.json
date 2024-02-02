@@ -1,0 +1,16 @@
+{
+	"category_list": [
+		{
+			"id": 1,
+			"category_name": "clothes"
+		},
+		{
+			"id": 2,
+			"category_name": "shoes"
+		},
+		{
+			"id": 3,
+			"category_name": "accessories"
+		}
+	]
+}
